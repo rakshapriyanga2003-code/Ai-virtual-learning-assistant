@@ -7,14 +7,20 @@ The application allows students to ask questions and receive answers based on st
 
 ## Features
 • AI chatbot interface
+
 • Question answering system
+
 • Web interface using Flask
+
 • Simple NLP based response system
 
 ## Technologies
 Python
+
 Flask
+
 HTML
+
 CSS
 
 ## How to Run
